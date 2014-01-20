@@ -1,4 +1,4 @@
-myswitchrep
+myswitchrep ( best viewed in raw mode ) 
 ===========
 - checks HP devices in an ip range (line 143 & line 14)
 - snmpkey is in line 72
