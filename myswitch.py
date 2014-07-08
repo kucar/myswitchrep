@@ -123,7 +123,7 @@ class MySwitch(object):
 def notifyme(stringy):
     import smtplib
     global version
-    recipients =['okara@erdemir.com.tr','kucar@erdemir.com.tr','syildirim@erdemir.com.tr']
+    recipients =['mymail@mymail.com','mymail1@mymail.com','mymail2@mymail.com']
     to =", ".join(recipients)
     gmail_user = 'korgios42@gmail.com'
     gmail_pwd ="password_deleted"  
